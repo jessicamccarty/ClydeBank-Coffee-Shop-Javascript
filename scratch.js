@@ -7,4 +7,3 @@ document.getElementById("content").textContent = "Hello, World!"
 // EX: console.log("Hello,World!"); console.log("And Hello Again!");
 
 
-
